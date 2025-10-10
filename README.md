@@ -8,7 +8,7 @@
 <p align="center">🎓 <b>S1 Teknik Informatika</b> — Universitas Dipa Makassar</p>
 
 ---
-### 📊 My GitHub Stats & Languages
+### 📊 My GitHub 
 
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kharell&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Most Used Languages" />
@@ -35,6 +35,11 @@
 | **UI & Design** | Figma |
 | **Local Dev Tools** | Laragon · XAMPP |
 
+---
+<!-- GITHUB STREAK STATS -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarelKalang&theme=radical&ring=ff4d94&fire=ff4d94&currStreakLabel=ffdd00" alt="GitHub Streak" />
+</div>
 ---
 
 ⭐ *“Code with passion, learn with purpose, and share with kindness.”*  
