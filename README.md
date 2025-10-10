@@ -3,21 +3,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Karolus+Jone+Kalang;Call+me+Karel+Kalang+😁" alt="Typing Animation" />
 </h1>
 
-
-
 <p align="center">🎓 <b>S1 Teknik Informatika</b> — Universitas Dipa Makassar</p>
 
 ---
-### 📊 My GitHub 
+
+### 📊 My GitHub
 
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kharell&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Most Used Languages" />
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Kharell&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Karel's GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kharell&theme=radical&ring=ff4d94&fire=ff4d94&currStreakLabel=ffdd00" alt="GitHub Streak" />
+</p>
+
 ---
 
-**💼 Experiences:**
+### 💼 Experiences
 - 🖥️ Developed a **web-based concentration application** for campus exhibition  
 - 📱 Created a **mobile educational game** as my final thesis project  
 - 💻 Worked on **freelance/joki applications** for students and clients  
@@ -25,6 +28,7 @@
 ---
 
 ### 🧠 Tech Stack
+
 | Category | Tools |
 |-----------|-------|
 | **Frontend** | HTML5 · CSS3 · SASS · Bootstrap · Tailwind CSS |
@@ -35,11 +39,6 @@
 | **UI & Design** | Figma |
 | **Local Dev Tools** | Laragon · XAMPP |
 
----
-<!-- GITHUB STREAK STATS -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarelKalang&theme=radical&ring=ff4d94&fire=ff4d94&currStreakLabel=ffdd00" alt="GitHub Streak" />
-</div>
 ---
 
 ⭐ *“Code with passion, learn with purpose, and share with kindness.”*  
