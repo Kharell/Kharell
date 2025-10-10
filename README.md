@@ -1,6 +1,48 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">👋 Hi there, I'm <span style="color:#8b5cf6;">Karolus Jone Kalang</span></h1>
-<h3 align="center">You can call me <b>Karel Kalang</b> 👨‍💻</h3>
+<!-- ✨ Animated Header Section ✨ -->
+<h1 align="center">
+  <span class="typing-text">👋 Hi there, I'm <span style="color:#8b5cf6;">Karolus Jone Kalang</span></span>
+</h1>
+
+<h3 align="center" class="shake-text">
+  You can call me <b>Karel Kalang</b> 👨‍💻
+</h3>
+
+<style>
+/* Typing animation for h1 */
+.typing-text {
+  display: inline-block;
+  font-family: monospace;
+  white-space: nowrap;
+  border-right: 3px solid #8b5cf6;
+  overflow: hidden;
+  animation: typing 3s steps(30, end), blink 0.6s step-end infinite alternate;
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+@keyframes blink {
+  50% { border-color: transparent; }
+}
+
+/* Shaking animation for h3 */
+.shake-text {
+  display: inline-block;
+  animation: shake 1s infinite;
+}
+
+@keyframes shake {
+  0% { transform: rotate(0deg); }
+  25% { transform: rotate(1deg); }
+  50% { transform: rotate(0deg); }
+  75% { transform: rotate(-1deg); }
+  100% { transform: rotate(0deg); }
+}
+</style>
+
 <p align="center">🎓 <b>S1 Teknik Informatika</b> — Universitas Dipa Makassar</p>
 
 ---
