@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=👋+Hi+there!;I'm+Karolus+Jone+Kalang;Junior+Web+Developer;You+can+call+me+Karel+Kalang+👨‍💻" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Karolus+Jone+Kalang;Call+me+Karel+Kalang+👨‍💻" alt="Typing Animation" />
 </h1>
 
 
