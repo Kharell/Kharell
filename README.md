@@ -7,8 +7,8 @@
 ### 📊 My GitHub Stats & Languages
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Kharell&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Karel's GitHub Stats" />
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kharell&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Most Used Languages" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Kharell&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Karel's GitHub Stats" />
 </p>
 
 ---
