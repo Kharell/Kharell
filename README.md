@@ -4,12 +4,6 @@
 <p align="center">🎓 <b>S1 Teknik Informatika</b> — Universitas Dipa Makassar</p>
 
 ---
-
-### 🧭 About Me
-I’m a tech enthusiast passionate about creating web & mobile applications.  
-I enjoy bringing ideas to life through coding, design, and creativity. 
-
----
 ### 📊 My GitHub Stats & Languages
 
 <p align="center">
