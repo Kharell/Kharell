@@ -14,10 +14,6 @@
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Kharell&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Karel's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kharell&theme=radical&ring=ff4d94&fire=ff4d94&currStreakLabel=ffdd00" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 💼 Experiences
@@ -38,6 +34,11 @@
 | **Databases** | MySQL · NoSQL · MongoDB |
 | **UI & Design** | Figma |
 | **Local Dev Tools** | Laragon · XAMPP |
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kharell&theme=radical&ring=ff4d94&fire=ff4d94&currStreakLabel=ffdd00" alt="GitHub Streak" />
+</p>
 
 ---
 
