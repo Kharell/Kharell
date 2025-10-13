@@ -36,11 +36,5 @@
 | **Local Dev Tools** | Laragon · XAMPP |
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kharell&theme=radical&ring=ff4d94&fire=ff4d94&currStreakLabel=ffdd00" alt="GitHub Streak" />
-</p>
-
----
-
 ⭐ *“Code with passion, learn with purpose, and share with kindness.”*  
 — **Karel Kalang**
