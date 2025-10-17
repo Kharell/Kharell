@@ -29,8 +29,8 @@
 |-----------|-------|
 | **Frontend** | HTML5 · CSS3 · SASS · Bootstrap · Tailwind CSS |
 | **Backend** | PHP · Laravel · Node.js · Express.js |
-| **Fullstack Frameworks** | React.js · MERN Stack · Vue.js |
-| **State Management** | Redux · Vuex |
+| **Fullstack Frameworks** | React.js · MERN Stack|
+| **State Management** | Redux |
 | **Databases** | MySQL · NoSQL · MongoDB |
 | **UI & Design** | Figma |
 | **Local Dev Tools** | Laragon · XAMPP |
