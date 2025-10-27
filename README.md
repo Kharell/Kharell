@@ -37,4 +37,4 @@
 ---
 
 ⭐ *“Code with passion, learn with purpose, and share with kindness.”*  
-— **Karel Kalang**
+— **Karolus Jone Kalang**
