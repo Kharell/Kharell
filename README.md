@@ -5,6 +5,12 @@
 
 <p align="center">🎓 <b>S1 Teknik Informatika</b> — Universitas Dipa Makassar</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/karell-kalang-053609274/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Karel%20Kalang-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
+  </a>
+</p>
+
 ---
 
 ### 📊 My GitHub
@@ -29,11 +35,12 @@
 |-----------|-------|
 | **Frontend** | HTML5 · CSS3 · SASS · Bootstrap · Tailwind CSS |
 | **Backend** | PHP · Laravel · Node.js · Express.js |
-| **Fullstack Frameworks** | React.js · MERN Stack|
+| **Fullstack Frameworks** | React.js · MERN Stack |
 | **State Management** | Redux |
 | **Databases** | MySQL · NoSQL · MongoDB |
 | **UI & Design** | Figma |
 | **Local Dev Tools** | Laragon · XAMPP |
+
 ---
 
 ⭐ *“Code with passion, learn with purpose, and share with kindness.”*  
