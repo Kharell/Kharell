@@ -17,7 +17,7 @@
 
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kharell&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Most Used Languages" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Kharell&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Karel's GitHub Stats" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Kharell&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Karel GitHub Stats" />
 </p>
 
 ---
@@ -33,13 +33,13 @@
 
 | Category | Tools |
 |-----------|-------|
-| **Frontend** | HTML5 · CSS3 · SASS · Bootstrap · Tailwind CSS |
-| **Backend** | PHP · Laravel · Node.js · Express.js |
-| **Fullstack Frameworks** | React.js · MERN Stack |
+| **Frontend** | HTML5 · CSS3 · SASS · Bootstrap · Tailwind CSS . ReactJs |
+| **Backend** | PHP · Node.js · Express.js | 
+| **Fullstack Frameworks** | Laravel · MERN Stack |
 | **State Management** | Redux |
 | **Databases** | MySQL · NoSQL · MongoDB |
 | **UI & Design** | Figma |
-| **Local Dev Tools** | Laragon · XAMPP |
+| **Local Dev Tools** | Laragon · XAMPP · NPM|
 
 ---
 
