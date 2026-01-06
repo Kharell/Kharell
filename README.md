@@ -35,6 +35,7 @@
 |-----------|-------|
 | **Frontend** | HTML5 · CSS3 · SASS · Bootstrap · Tailwind CSS . ReactJs |
 | **Backend** | PHP · Node.js · Express.js | 
+| **Mobile App** | React Native . Expo . Node.js · Express.js | 
 | **Fullstack Frameworks** | Laravel · MERN Stack |
 | **State Management** | Redux |
 | **Databases** | MySQL · NoSQL · MongoDB |
