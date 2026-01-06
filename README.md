@@ -13,8 +13,6 @@
 
 ---
 
----
-
 ### 💼 Experiences
 - 🖥️ Developed a **web-based concentration application** for campus exhibition  
 - 📱 Created a **mobile educational game** as my final thesis project  
