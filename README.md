@@ -15,10 +15,17 @@
 
 ### 📊 My GitHub
 
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kharell&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Most Used Languages" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Kharell&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Kharell&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Kharell&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
+    height="165"
+  />
+</div>
+
 
 ---
 
@@ -41,6 +48,7 @@
 | **Databases** | MySQL · NoSQL · MongoDB |
 | **UI & Design** | Figma |
 | **Local Dev Tools** | Laragon · XAMPP · NPM|
+| **Design** | PS . Ai|
 
 ---
 
