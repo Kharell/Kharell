@@ -13,6 +13,7 @@
 ---
 
 ### 💼 Experiences
+- 🏢 Developed a **web-based campus inventory application system** for Politeknik ATI Makassar
 - 🖥️ Developed a **web-based concentration application** for campus exhibition  
 - 📱 Created a **mobile educational game** as my final thesis project  
 - 💻 Worked on **freelance/joki applications** for students and clients  
@@ -21,28 +22,24 @@
 
 ### 🧠 Tech Stack
 
-| Category | Tools |
-|-----------|-------|
-| **Frontend** | HTML5 · CSS3 · SASS · Bootstrap · Tailwind CSS . ReactJs |
-| **Backend** | PHP · Node.js · Express.js | 
-| **Mobile App** | React Native . Expo . Node.js · Express.js | 
-| **Fullstack Frameworks** | Laravel · MERN Stack |
-| **State Management** | Redux |
-| **Databases** | MySQL · NoSQL · MongoDB |
-| **UI & Design** | Figma |
-| **Local Dev Tools** | Laragon · XAMPP · NPM|
-| **Design** | PS . Ai|
-
----
-
-### 📊 GitHub Statistics
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=karellkalang&show_icons=true&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karellkalang&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6" />
+<p align="left">
+  <b>Frontend & UI/UX</b><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,figma" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=karellkalang&theme=tokyonight&hide_border=true&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+<p align="left">
+  <b>Backend & Database</b><br/>
+  <img src="https://skillicons.dev/icons?i=php,nodejs,express,laravel,mysql,mongodb" />
+</p>
+
+<p align="left">
+  <b>Mobile & Tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,apple,docker,git,npm,vscode" />
+</p>
+
+<p align="left">
+  <b>Design & Local Dev</b><br/>
+  <img src="https://skillicons.dev/icons?i=ps,ai,apple" /> (Laragon/XAMPP)
 </p>
 
 ---
