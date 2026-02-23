@@ -11,19 +11,19 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karellkalang&label=Profile%20Views&color=8B5CF6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
 ### 📊 GitHub Activity & Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karellkalang&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" alt="Karel's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karellkalang&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8" alt="Karel's Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="Karel's Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=karellkalang&theme=dracula&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="Karel's GitHub Streak" />
+  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
 </p>
 
 ---
@@ -36,24 +36,20 @@
 ---
 
 ### 🧠 Tech Stack
-
-| Category | Tools |
-|-----------|-------|
-| **Frontend** | HTML5 · CSS3 · SASS · Bootstrap · Tailwind CSS · ReactJs |
-| **Backend** | PHP · Node.js · Express.js | 
-| **Mobile App** | React Native · Expo · Node.js · Express.js | 
-| **Fullstack Frameworks** | Laravel · MERN Stack |
-| **State Management** | Redux |
-| **Databases** | MySQL · NoSQL · MongoDB |
-| **UI & Design** | Figma |
-| **Local Dev Tools** | Laragon · XAMPP · NPM|
-| **Design** | Photoshop · Illustrator|
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,nextjs" alt="Frontend" /><br/>
+  <img src="https://skillicons.dev/icons?i=php,nodejs,express,laravel,mongodb,mysql" alt="Backend" /><br/>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,npm,postman,git,github" alt="Tools" />
+</p>
 
 ---
 
+### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karellkalang&theme=dracula" alt="Summary Cards" width="100%"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_KAMU&theme=tokyo-night&area=true&hide_border=false&border_radius=10" />
 </p>
+
+---
 
 <p align="center">
   ⭐ <i>“Code with passion, learn with purpose, and share with kindness.”</i><br>
