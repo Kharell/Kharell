@@ -1,57 +1,51 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Karolus+Jone+Kalang;Call+me+Karel+Kalang+😁" alt="Typing Animation" />
-</h1>
-
-<p align="center">🎓 <b>S1 Teknik Informatika</b> — Universitas Dipa Makassar</p>
-
-<p align="center">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Karolus+Jone+Kalang;Fullstack+Developer+😁" alt="Typing Animation" />
+  
+  <p>🎓 <b>S1 Teknik Informatika</b> — Universitas Dipa Makassar</p>
+  
   <a href="https://www.linkedin.com/in/karell-kalang-053609274/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Karel%20Kalang-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-Karel%20Kalang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views" />
-</p>
+<br/>
 
----
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=karellkalang&show_icons=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff&bg_color=0D1117&hide_border=false" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karellkalang&layout=compact&theme=transparent&title_color=8B5CF6&text_color=ffffff&bg_color=0D1117&hide_border=false" width="100%" />
+    </td>
+  </tr>
+</table>
 
-### 📊 GitHub Activity & Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="Karel's Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Top Languages" />
-</p>
+<br/>
 
-<p align="center">
-  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karellkalang&theme=dark&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" width="100%" />
+</div>
 
----
+<br/>
 
-### 💼 Experiences
-- 🖥️ Developed a **web-based concentration application** for campus exhibition  
-- 📱 Created a **mobile educational game** as my final thesis project  
-- 💻 Worked on **freelance/joki applications** for students and clients  
+<div align="center">
+  <h3>🧠 Tech Stack & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,php,laravel,nodejs,mysql,mongodb,figma,ps,git&perline=7" />
+</div>
 
----
+<br/>
 
-### 🧠 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,nextjs" alt="Frontend" /><br/>
-  <img src="https://skillicons.dev/icons?i=php,nodejs,express,laravel,mongodb,mysql" alt="Backend" /><br/>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,npm,postman,git,github" alt="Tools" />
-</p>
+<div align="center">
+  <h3>📈 Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karellkalang&theme=tokyo-night&area=true&hide_border=false&border_radius=10" width="100%" />
+</div>
 
----
+<br/>
 
-### 📈 Contribution Graph
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_KAMU&theme=tokyo-night&area=true&hide_border=false&border_radius=10" />
-</p>
+<hr/>
 
----
-
-<p align="center">
-  ⭐ <i>“Code with passion, learn with purpose, and share with kindness.”</i><br>
-  — <b>Karolus Jone Kalang</b>
-</p>
+<div align="center">
+  <p>⭐ <i>“Code with passion, learn with purpose, and share with kindness.”</i></p>
+  <b>— Karolus Jone Kalang —</b>
+</div>
