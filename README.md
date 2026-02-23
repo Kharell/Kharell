@@ -33,13 +33,15 @@
 </p>
 
 <p align="left">
-  <b>Mobile & Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=react,apple,docker,git,npm,vscode" />
+  <b>DevOps & Mobile</b><br/>
+  <img src="https://skillicons.dev/icons?i=docker,git,npm,vscode,react" />
 </p>
 
 <p align="left">
-  <b>Design & Local Dev</b><br/>
-  <img src="https://skillicons.dev/icons?i=ps,ai,apple" /> (Laragon/XAMPP)
+  <b>Design & Local Environment</b><br/>
+  <img src="https://skillicons.dev/icons?i=ps,ai" />
+  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=flat&logo=laragon&logoColor=white" alt="Laragon" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white" alt="XAMPP" />
 </p>
 
 ---
