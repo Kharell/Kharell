@@ -1,51 +1,49 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Karolus+Jone+Kalang;Fullstack+Developer+😁" alt="Typing Animation" />
-  
-  <p>🎓 <b>S1 Teknik Informatika</b> — Universitas Dipa Makassar</p>
-  
-  <a href="https://www.linkedin.com/in/karell-kalang-053609274/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Karel%20Kalang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Karolus%20Jone%20Kalang&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=karellkalang&show_icons=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff&bg_color=0D1117&hide_border=false" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karellkalang&layout=compact&theme=transparent&title_color=8B5CF6&text_color=ffffff&bg_color=0D1117&hide_border=false" width="100%" />
-    </td>
-  </tr>
-</table>
+<br />
 
-<br/>
+### ⚡ Software Engineer | Mobile Developer | UI Designer
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karell-kalang-053609274/)
+[![Website](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=ko-fi&logoColor=white)](#)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karellkalang&theme=dark&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" width="100%" />
-</div>
+<br />
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=karellkalang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=bb9af7" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karellkalang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6" width="49%" />
 
-<div align="center">
-  <h3>🧠 Tech Stack & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,php,laravel,nodejs,mysql,mongodb,figma,ps,git&perline=7" />
-</div>
+<br />
 
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karellkalang&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&color=8B5CF6" width="100%" />
 
-<div align="center">
-  <h3>📈 Contribution Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karellkalang&theme=tokyo-night&area=true&hide_border=false&border_radius=10" width="100%" />
-</div>
+<br />
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karellkalang&theme=tokyonight&hide_border=true&background=0D1117&sideNums=8B5CF6&currStreakLabel=8B5CF6" width="100%" />
 
-<hr/>
+<br />
 
-<div align="center">
-  <p>⭐ <i>“Code with passion, learn with purpose, and share with kindness.”</i></p>
-  <b>— Karolus Jone Kalang —</b>
+---
+
+### 🛠️ My Tech Toolbox
+<br />
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,php,laravel,nodejs,mysql,mongodb,figma,ps,git&perline=7" />
+
+<br />
+
+---
+
+### 📂 GitHub Records
+| 🏆 Achievements | 🐍 Contributions |
+| :---: | :---: |
+| <img src="https://github-profile-trophy.vercel.app/?username=karellkalang&theme=tokyonight&no-bg=true&column=2&margin-w=15" width="400" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karellkalang&theme=tokyonight" width="400" /> |
+
+<br />
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" width="100%" />
+
+*"Code with passion, learn with purpose."*
+
 </div>
