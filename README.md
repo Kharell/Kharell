@@ -38,14 +38,14 @@
 </p>
 
 <p align="left">
-<b>Local Environment</b><br/> src="https://img.shields.io/badge/Laragon-0E83CD?style=flat&logo=laragon&logoColor=white" alt="Laragon" />
+<b>Local Environment</b><br/> 
+    <img src="https://img.shields.io/badge/Laragon-0E83CD?style=flat&logo=laragon&logoColor=white" alt="Laragon" />
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white" alt="XAMPP" />
 </p>
 
 <p align="left">
   <b>Design</b><br/>
-  <img src="https://skillicons.dev/icons?i=ps,ai" />
-  <img 
+  <img src="https://skillicons.dev/icons?i=ps,ai" /> 
 </p>
 
 ---
