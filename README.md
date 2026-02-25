@@ -50,6 +50,6 @@
 
 ------------------
 <p align="center">
-  🌐 <a href="https://karel-ganteng.vercel.app/"><b>⭐ *“Code with.”* — **Karolus Jone Kalang** </b></a> 🌐
+  🌐 <a href="https://karel-ganteng.vercel.app/"><b>⭐ Code with — Karolus Jone Kalang ⭐</b></a> 🌐
 </p>
 
