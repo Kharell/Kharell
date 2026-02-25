@@ -24,7 +24,7 @@
 
 <p align="left">
   <b>Frontend & UI/UX</b><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,figma" />
 </p>
 
 <p align="left">
@@ -33,7 +33,7 @@
 </p>
 
 <p align="left">
-  <b>DevOps & Mobile</b><br/>
+  <b>DevOps, Testing & Mobile </b><br/>
   <img src="https://skillicons.dev/icons?i=docker,git,npm,vscode,react" />
 </p>
 
