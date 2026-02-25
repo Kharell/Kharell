@@ -50,7 +50,7 @@
 
 ------------------
 <p align="center">
-  🌐 <a href="karel-ganteng.vercel.app"><b>Visit My Portfolio Website</b></a>
+  🌐 <a href="https://karel-ganteng.vercel.app/"><b>Visit My Portfolio Website</b></a>
 </p>
 ------------------
 
