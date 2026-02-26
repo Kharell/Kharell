@@ -49,13 +49,9 @@
 </p>
 
 ------------------
-<div align="center">
-
-# 🚀 Code with — Karolus Jone Kalang 🚀
-
-[![Website](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=vercel)](https://karel-ganteng.vercel.app/)
-[![GitHub](https://img.shields.io/badge/Connect-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/)
-
----
-*Transforming ideas into digital reality.*
-</div>
+<p align="center">
+  <sub>Code with — Karolus Jone Kalang</sub><br>
+  <a href="https://karel-ganteng.vercel.app/">
+    <b>[ Klik Portofolio ]</b>
+  </a>
+</p>
