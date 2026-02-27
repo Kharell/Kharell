@@ -23,28 +23,33 @@
 ### 🧠 Tech Stack
 
 <p align="left">
-  <b>Frontend & UI/UX</b><br/>
+  <b>Frontend & UI/UX</b>
+  <br/> <br/>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,figma" />
 </p>
 
 <p align="left">
-  <b>Backend & Database</b><br/>
+  <b>Backend & Database</b>
+  <br/> <br/>
   <img src="https://skillicons.dev/icons?i=php,nodejs,express,laravel,mysql,mongodb" />
 </p>
 
 <p align="left">
-  <b>DevOps, Testing & Mobile </b><br/>
+  <b>DevOps, Testing & Mobile </b>
+  <br/> <br/>
   <img src="https://skillicons.dev/icons?i=docker,git,npm,vscode,react" />
 </p>
 
 <p align="left">
-<b>Local Environment</b><br/> 
+<b>Local Environment</b>
+  <br/> <br/>
     <img src="https://img.shields.io/badge/Laragon-0E83CD?style=flat&logo=laragon&logoColor=white" alt="Laragon" />
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white" alt="XAMPP" />
 </p>
 
 <p align="left">
-  <b>Design</b><br/>
+  <b>Design</b>
+  <br/> <br/>
   <img src="https://skillicons.dev/icons?i=ps,ai" /> 
 </p>
 
