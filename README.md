@@ -14,10 +14,10 @@
 ---
 
 ### 💼 Experiences
-- 🏢 Developed a **web-based campus inventory application system** for Politeknik ATI Makassar
-- 🖥️ Developed a **web-based concentration application** for campus exhibition  
+- 🏢 Developed a **web-based campus inventory application system** for Politeknik ATI Makassar.
+- 🖥️ Developed a **web-based concentration application** for campus exhibition. 
 - 📱 Created a **mobile educational game** as my final thesis project  
-- 💻 Worked on **freelance/joki applications** for students and clients  
+- 💻 Worked on **freelance/joki applications** for students and clients.
 
 ---
 
