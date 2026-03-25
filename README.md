@@ -54,7 +54,7 @@
   <img src="https://skillicons.dev/icons?i=ps,ai" /> 
 </p>
 
-------------------
+-----------
 <p align="center">
   <sub>Code with — Karolus Jone Kalang</sub><br>
   <a href="https://karel-ganteng.vercel.app/">
