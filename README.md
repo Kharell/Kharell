@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">🎓 <b>S1 Teknik Informatika </b> <br>
-  Universitas Dipanegara Makassar.</p>
+  Universitas Dipanegara Makassar</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karell-kalang-053609274/" target="_blank">
