@@ -58,6 +58,6 @@
 <p align="center">
   <sub>Code with — Karolus Jone Kalang</sub><br>
   <a href="https://karel-ganteng.vercel.app/">
-    <b> <i> My Portofolio ehehhee </i> </b>
+    <b> <i> My Portofolio </i> </b>
   </a>
 </p>
