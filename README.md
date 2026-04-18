@@ -11,7 +11,7 @@
   </a>
 </p>
 
----------
+-----------
 
 ### 💼 Experiences
 - 🏢 Developed a **web-based campus inventory application system** for Politeknik ATI Makassar.
@@ -19,7 +19,7 @@
 - 📱 Created a **mobile educational game** as my final thesis project  
 - 💻 Worked on **freelance/joki applications** for students and clients.
 
-----------
+------------
 
 ### 🧠 Tech Stack
 
