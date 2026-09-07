@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">🎓 <b>S1 Teknik - Informatika,</b> <br>
-  Universitas Dipanegara Makassar.</p>
+  Universitas Dipanegara Makassar. </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karell-kalang-053609274/" target="_blank">
@@ -13,11 +13,13 @@
 
 -----------
 
+
 ### 💼 Experiences
 - 🏢 Developed a **web-based campus inventory application system** for Politeknik ATI Makassar.
 - 🖥️ Developed a **web-based concentration application** for campus exhibition. 
 - 📱 Created a **mobile educational game** as my final thesis project  
 - 💻 Worked on **freelance/joki applications** for students and clients
+
 
 ------------
 
