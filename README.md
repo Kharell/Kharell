@@ -58,7 +58,7 @@
 
 -----------
 <p align="center">
-  <sub> Code with — Karel Ganteng </sub> <br>
+  <sub> Code with — KAROLUS JONE KALANG </sub> <br>
   <a href="https://karel-ganteng.vercel.app/">
     <b><i> $ My Portofolio. </i></b>
   </a>
