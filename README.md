@@ -38,7 +38,7 @@
 </p>
 
 <p align="left">
-  <b>DevOps, Testing & Mobile </b>
+  <b>DevOps, Testing & Mobile</b>
   <br/> <br/>
   <img src="https://skillicons.dev/icons?i=docker,git,npm,vscode,react" />
 </p>
@@ -60,6 +60,6 @@
 <p align="center">
   <sub> Code with — KAROLUS JONE KALANG </sub> <br>
   <a href="https://karel-ganteng.vercel.app/">
-    <b><i> $ My Portofolio. </i></b>
+    <b><i>$ My Portofolio.</i></b>
   </a>
 </p>
