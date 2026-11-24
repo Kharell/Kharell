@@ -26,7 +26,7 @@
 ### 🧠 Tech Stack
 
 <p align="left">
-  <b>Frontend & UI/UX</b>
+  <b> Frontend & UI /UX</b>
   <br/> <br/>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,figma" />
 </p>
@@ -44,14 +44,14 @@
 </p>
 
 <p align="left">
-<b>Local Environment</b>
+<b> Local Environment </b>
   <br/> <br/>
     <img src="https://img.shields.io/badge/Laragon-0E83CD?style=flat&logo=laragon&logoColor=white" alt="Laragon" />
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white" alt="XAMPP" />
 </p>
 
 <p align="left">
-  <b>Design</b>
+  <b> Design </b>
   <br/> <br/>
   <img src="https://skillicons.dev/icons?i=ps,ai" /> 
 </p>
@@ -60,6 +60,6 @@
 <p align="center">
   <sub> Code with — KAROLUS JONE KALANG </sub> <br>
   <a href="https://karel-ganteng.vercel.app/">
-    <b><i>$ My Portofolio.</i></b>
+    <b><i>$ My Portofolio. </i></b>
   </a>
 </p>
