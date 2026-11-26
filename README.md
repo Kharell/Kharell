@@ -32,13 +32,13 @@
 </p>
 
 <p align="left">
-  <b>Backend & Database</b>
+  <b> Backend & Database </b>
   <br/> <br/>
   <img src="https://skillicons.dev/icons?i=php,nodejs,express,laravel,mysql,mongodb" />
 </p>
 
 <p align="left">
-  <b>DevOps, Testing & Mobile</b>
+  <b> DevOps, Testing & Mobile </b>
   <br/> <br/>
   <img src="https://skillicons.dev/icons?i=docker,git,npm,vscode,react" />
 </p>
